@@ -10,6 +10,10 @@ The Project is in very early stage right now.
 
 More to follow...
 
+## Maybe this diagram will help explain **STAGE 0**:
+
+![Initial Diagram for Project](./Readme%20Assets/Requirements%20Design%20Diagram.png "Initial Diagram for Project")
+
 # Contributing
 
 I am pretty new to this whole open source thing, so if you have any suggestions or ideas, please feel free to open an issue or a PR.
