@@ -1,6 +1,7 @@
 import { type NextPage } from "next";
 import Head from "next/head";
 import Link from "next/link";
+import Navbar from "../components/Navbar";
 
 const Home: NextPage = () => {
   return (
@@ -8,12 +9,10 @@ const Home: NextPage = () => {
       <Head>
         <title>Better Navbars</title>
         <meta name="description" content="Better Navbars" />
-        <link rel="icon" href="/favicon.ico" />
+        <Link rel="icon" href="/logo.ico" />
       </Head>
-      <main className="flex min-h-screen w-screen flex-col items-center justify-center bg-white dark:bg-black dark:text-white ">
-        <div className="h-screen w-screen">
-          <div className="text-xl">Init</div>
-        </div>
+      <main className="flex h-screen min-h-screen w-screen flex-col items-center justify-center bg-white">
+        <Navbar />
       </main>
     </>
   );
