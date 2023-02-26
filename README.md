@@ -1,28 +1,23 @@
-# Create T3 App
+# Better Navbars
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+This Project aims to create Headless UI for Navbar components.
+The Project is in very early stage right now.
 
-## What's next? How do I make an app with this?
+## Project Goals and stages:
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+- **STAGE 0**: Build the basic Navbar MVP and define a structure that can be reused and extended
+- **STAGE 1**: Add customizability to the Navbar, so the users can change the Navbar to their needs
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+More to follow...
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+# Contributing
 
-## Learn More
+I am pretty new to this whole open source thing, so if you have any suggestions or ideas, please feel free to open an issue or a PR.
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+- All suggestions are welcome
+- All constructive criticism is welcome
+- All help is welcome (Actually would be great if someone can help me figure out this open source thing & how to best maintain this project)
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+# Socials:
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+- [Gmail](mailto:tanush.mohina@gmail.com) - This is probably the best way to reach me if you don't want to open an issue or a PR
